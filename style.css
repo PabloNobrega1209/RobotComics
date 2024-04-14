@@ -1,5 +1,10 @@
 body{
     background-color: white;
+    background-image: linear-gradient(#00000001,#00000063), url(imagens/batmanimg.jpg);
+    background-position: center;
+    background-size: 1000px, 1600px;
+    background-position-y: top;
+    background-repeat: no-repeat;
     margin: 0;
 }
 
@@ -13,6 +18,14 @@ div{
     justify-content: space-between;
     width: 100%;
     align-items: center;
+    opacity: 50%;
+}
+
+.fodao{
+    background-color: red;
+    width: 100%;
+    height: 600px;
+    visibility: hidden;
 }
 
 .minimagens{
@@ -104,6 +117,7 @@ button:hover{
     flex-direction: column;
     width: 350px;
     background-color: white;
+    margin-top: 20px;
     margin-right: 10px;
     margin-left: 10px;
     margin-bottom: 20px;
