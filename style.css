@@ -296,4 +296,43 @@ button:hover{
     background-color: red;
 }
 
+p .pfoot{
+    font-size: 10px;
+}
+
+footer {
+    background-color: #004AAD; /* Cor de fundo do rodapé */
+    color: #fff; /* Cor do texto do rodapé */
+    padding: -10px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+}
+
+.footer-content {
+    max-width: 1600px; /* Largura máxima do conteúdo do rodapé */
+    margin: 0 auto; /* Centralizar o conteúdo */
+}
+
+.footer-content p {
+    margin-bottom: 5px; /* Espaçamento inferior do parágrafo */
+}
+
+.footer-links {
+    list-style-type: none; /* Remover marcadores de lista */
+    padding: 0; /* Remover o espaçamento interno padrão da lista */
+}
+
+.footer-links li {
+    display: inline; /* Exibir os itens da lista em linha */
+    margin-right: 25px; /* Espaçamento entre os itens da lista */
+}
+
+.footer-links li a {
+    color: #fff; /* Cor dos links */
+    text-decoration: none; /* Remover sublinhado dos links */
+}
+
+.footer-links li a:hover {
+    text-decoration: underline; /* Adicionar sublinhado ao passar o mouse sobre os links */
+}
+
 
