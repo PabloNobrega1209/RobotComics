@@ -290,15 +290,27 @@ button:hover{
     margin-bottom: 20px;
 }
 
+.hqs{
+    margin-top: 100px;
+    background-color: black;
+    width: 100%;
+    margin-top: 30px;
+}
+
+
+video{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 320px;
+    margin-right: 380px;
+    margin-bottom: 150px;
+}
 
 .backdrop{
     opacity: 90%;
     background-color: red;
 }
 
-p .pfoot{
-    font-size: 10px;
-}
 
 footer {
     background-color: #004AAD; /* Cor de fundo do rodapé */
@@ -319,6 +331,12 @@ footer {
 .footer-links {
     list-style-type: none; /* Remover marcadores de lista */
     padding: 0; /* Remover o espaçamento interno padrão da lista */
+    display: flex;
+    margin-right: 170px;
+    margin-left: 280px;
+    gap: 40px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer-links li {
