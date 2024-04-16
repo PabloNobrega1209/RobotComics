@@ -212,6 +212,13 @@ button:hover{
     overflow: hidden;
     margin-right: -4px;
 }
+
+.mangas{
+    background-color: black;
+    width: 100%;
+    margin-top: 30px;
+}
+
 .godzilla{
     margin-top: 20px;
     margin-bottom: 20px;
