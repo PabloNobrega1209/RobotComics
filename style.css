@@ -12,6 +12,11 @@ div{
     display: inline-block;
 }
 
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
 .cabecario{
     background-color: #004AAD;
     display: flex;
