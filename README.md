@@ -36,11 +36,19 @@ Você pode acessar o site RobotComis através deste [link]https://robot-comics.v
 
 Aqui estão algumas imagens do site RobotComics:
 
+
+- Home Page
 ![Imagem 1](/imagens/fotosite1.png)
 
+- Segunda Página sobre quadrinhos
 ![Imagem 2](/imagens/fotosite2.png)
 
+- Terceira página, dos lançamentos 
 ![Imagem 3](/imagens/fotosite3.png)
 
-![Imagem 4](/imagens/fotosite3.png)
+- Quarta página, mangás
+![Imagem 4](/imagens/fotosite4.png)
+
+- Quinta página, video sobre quadrinhos
+![Imagem 5](/imagens/fotosite5.png)
 
